@@ -1,0 +1,8 @@
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\FSharpSpeechSynthesis\FSharpSpeechSynthesis\bin\Debug\FSharpSpeechSynthesis.exe.config
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\FSharpSpeechSynthesis\FSharpSpeechSynthesis\bin\Debug\FSharpSpeechSynthesis.XML
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\FSharpSpeechSynthesis\FSharpSpeechSynthesis\bin\Debug\FSharpSpeechSynthesis.exe
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\FSharpSpeechSynthesis\FSharpSpeechSynthesis\bin\Debug\FSharpSpeechSynthesis.pdb
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\FSharpSpeechSynthesis\FSharpSpeechSynthesis\bin\Debug\FSharp.Core.dll
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\FSharpSpeechSynthesis\FSharpSpeechSynthesis\bin\Debug\FSharp.Core.xml
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\FSharpSpeechSynthesis\FSharpSpeechSynthesis\obj\Debug\FSharpSpeechSynthesis.exe
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\FSharpSpeechSynthesis\FSharpSpeechSynthesis\obj\Debug\FSharpSpeechSynthesis.pdb
